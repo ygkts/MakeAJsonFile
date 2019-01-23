@@ -1,0 +1,9 @@
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\3.AY\Hafta9\Kurs_22Ocak2019\u1_jsonOrnegi\u1_jsonOrnegi\bin\Debug\u1_jsonOrnegi.exe.config
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\3.AY\Hafta9\Kurs_22Ocak2019\u1_jsonOrnegi\u1_jsonOrnegi\bin\Debug\u1_jsonOrnegi.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\3.AY\Hafta9\Kurs_22Ocak2019\u1_jsonOrnegi\u1_jsonOrnegi\bin\Debug\u1_jsonOrnegi.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\3.AY\Hafta9\Kurs_22Ocak2019\u1_jsonOrnegi\u1_jsonOrnegi\obj\Debug\u1_jsonOrnegi.csprojResolveAssemblyReference.cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\3.AY\Hafta9\Kurs_22Ocak2019\u1_jsonOrnegi\u1_jsonOrnegi\obj\Debug\u1_jsonOrnegi.Form1.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\3.AY\Hafta9\Kurs_22Ocak2019\u1_jsonOrnegi\u1_jsonOrnegi\obj\Debug\u1_jsonOrnegi.Properties.Resources.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\3.AY\Hafta9\Kurs_22Ocak2019\u1_jsonOrnegi\u1_jsonOrnegi\obj\Debug\u1_jsonOrnegi.csproj.GenerateResource.Cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\3.AY\Hafta9\Kurs_22Ocak2019\u1_jsonOrnegi\u1_jsonOrnegi\obj\Debug\u1_jsonOrnegi.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\3.AY\Hafta9\Kurs_22Ocak2019\u1_jsonOrnegi\u1_jsonOrnegi\obj\Debug\u1_jsonOrnegi.pdb
